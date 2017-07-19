@@ -1,0 +1,20 @@
+{
+  "name": "datatables.net-editor-jqui",
+  "version": "1.6.3",
+  "description": "DataTables Editor - jQuery UI integration",
+  "main": "js/editor.jqueryui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:DataTables/Dist-Editor-jQueryUI.git"
+  },
+  "keywords": [
+    "DataTables",
+    "Editor",
+    "jQuery UI"
+  ],
+  "author": "SpryMedia Ltd",
+  "license": "SEE LICENSE IN License.md"
+}
