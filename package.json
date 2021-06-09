@@ -1,8 +1,9 @@
 {
   "name": "datatables.net-editor-jqui",
-  "version": "1.6.5",
+  "version": "2.0.3",
   "description": "DataTables Editor - jQuery UI integration",
   "main": "js/editor.jqueryui.js",
+  "style": "css/editor.jqueryui.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,7 +17,7 @@
     "jQuery UI"
   ],
   "dependencies": {
-    "datatables.net-editor": "^1.6.5"
+    "datatables.net-editor": "^2.0.3"
   },
   "author": "SpryMedia Ltd",
   "license": "SEE LICENSE IN License.md"
